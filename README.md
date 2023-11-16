@@ -15,10 +15,10 @@ This ticket was created using the configuration I demonstrated from the "osTicke
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+<br />
 
-
-<h2>Ticket front-End and back-end:</h2>
-
+<h2>Ticket front-end and back-end:</h2>
+<br />
 <p>-User creates and submits a ticket through the osTicket portal:</p>
 <a href="https://imgur.com/PTZio1z"><img src="https://i.imgur.com/PTZio1z.png" title="source: imgur.com" /></a>
 <br />
